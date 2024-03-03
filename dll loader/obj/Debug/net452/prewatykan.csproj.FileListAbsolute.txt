@@ -1,0 +1,9 @@
+C:\Users\majakot\Desktop\watykanczykril\bin\Debug\net452\___.netmodule.dll
+C:\Users\majakot\Desktop\watykanczykril\bin\Debug\net452\___.netmodule.pdb
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.csproj.AssemblyReference.cache
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\Guide.Properties.Resources.resources
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.csproj.GenerateResource.cache
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\prewatykan.csproj.CoreCompileInputs.cache
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\___.netmodule.dll
+C:\Users\majakot\Desktop\watykanczykril\obj\Debug\net452\___.netmodule.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\majakot\\Desktop\\watykanczyk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29923122-0F0C-4AAB-9EEE-F591A22A2F32}|Launcher.csproj|c:\\users\\majakot\\desktop\\watykanczyk\\compressshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29923122-0F0C-4AAB-9EEE-F591A22A2F32}|Launcher.csproj|solutionrelative:compressshell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29923122-0F0C-4AAB-9EEE-F591A22A2F32}|Launcher.csproj|c:\\users\\majakot\\desktop\\watykanczyk\\confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29923122-0F0C-4AAB-9EEE-F591A22A2F32}|Launcher.csproj|solutionrelative:confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompressShell.cs",
+              "DocumentMoniker": "C:\\Users\\majakot\\Desktop\\watykanczyk\\CompressShell.cs",
+              "RelativeDocumentMoniker": "CompressShell.cs",
+              "ToolTip": "C:\\Users\\majakot\\Desktop\\watykanczyk\\CompressShell.cs",
+              "RelativeToolTip": "CompressShell.cs",
+              "ViewState": "AQIAALwCAAAAAAAAAAAswNQCAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:40:37.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConfusedByAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\majakot\\Desktop\\watykanczyk\\ConfusedByAttribute.cs",
+              "RelativeDocumentMoniker": "ConfusedByAttribute.cs",
+              "ToolTip": "C:\\Users\\majakot\\Desktop\\watykanczyk\\ConfusedByAttribute.cs",
+              "RelativeToolTip": "ConfusedByAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:40:34.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
