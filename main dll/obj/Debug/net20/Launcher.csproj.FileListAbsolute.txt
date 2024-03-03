@@ -1,3 +1,0 @@
-C:\Users\majakot\Desktop\watykanczyk\obj\Debug\net20\Launcher.csproj.AssemblyReference.cache
-C:\Users\majakot\Desktop\watykanczyk\obj\Debug\net20\Launcher.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\majakot\Desktop\watykanczyk\obj\Debug\net20\Launcher.csproj.CoreCompileInputs.cache
