@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\majakot\\Desktop\\watykanczykril\\",
+  "WorkspaceRootPath": "C:\\projects\\Watykanczyk-V3\\dll loader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|c:\\users\\majakot\\desktop\\watykanczykril\\guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|c:\\projects\\watykanczyk-v3\\dll loader\\guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|solutionrelative:guide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|c:\\users\\majakot\\desktop\\watykanczykril\\confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|C:\\projects\\Watykanczyk-V3\\dll loader\\confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6735513-1793-4D54-85AD-C1151C8A3A0D}|prewatykan.csproj|solutionrelative:confusedbyattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\majakot\\Desktop\\watykanczykril\\Guide\\Program.cs",
+              "DocumentMoniker": "C:\\projects\\Watykanczyk-V3\\dll loader\\Guide\\Program.cs",
               "RelativeDocumentMoniker": "Guide\\Program.cs",
-              "ToolTip": "C:\\Users\\majakot\\Desktop\\watykanczykril\\Guide\\Program.cs",
+              "ToolTip": "C:\\projects\\Watykanczyk-V3\\dll loader\\Guide\\Program.cs",
               "RelativeToolTip": "Guide\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-03T11:00:36.572Z",
               "EditorCaption": ""
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ConfusedByAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\majakot\\Desktop\\watykanczykril\\ConfusedByAttribute.cs",
+              "DocumentMoniker": "C:\\projects\\Watykanczyk-V3\\dll loader\\ConfusedByAttribute.cs",
               "RelativeDocumentMoniker": "ConfusedByAttribute.cs",
-              "ToolTip": "C:\\Users\\majakot\\Desktop\\watykanczykril\\ConfusedByAttribute.cs",
+              "ToolTip": "C:\\projects\\Watykanczyk-V3\\dll loader\\ConfusedByAttribute.cs",
               "RelativeToolTip": "ConfusedByAttribute.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-03T11:00:33.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-03T11:00:33.254Z"
             }
           ]
         }

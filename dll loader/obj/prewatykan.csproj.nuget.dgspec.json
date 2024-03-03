@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majakot\\Desktop\\watykanczykril\\prewatykan.csproj": {}
+    "C:\\projects\\Watykanczyk-V3\\dll loader\\prewatykan.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majakot\\Desktop\\watykanczykril\\prewatykan.csproj": {
+    "C:\\projects\\Watykanczyk-V3\\dll loader\\prewatykan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majakot\\Desktop\\watykanczykril\\prewatykan.csproj",
+        "projectUniqueName": "C:\\projects\\Watykanczyk-V3\\dll loader\\prewatykan.csproj",
         "projectName": "___.netmodule",
-        "projectPath": "C:\\Users\\majakot\\Desktop\\watykanczykril\\prewatykan.csproj",
+        "projectPath": "C:\\projects\\Watykanczyk-V3\\dll loader\\prewatykan.csproj",
         "packagesPath": "C:\\Users\\majakot\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majakot\\Desktop\\watykanczykril\\obj\\",
+        "outputPath": "C:\\projects\\Watykanczyk-V3\\dll loader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

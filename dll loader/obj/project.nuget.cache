@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x6XgEC3tjLXpo4MXuUv04ElutYiLRHBIGWu27cc/UW8z5Tjfd/eNUCC4VwYBnESDeLIK1ZWMFeflm+tr9ATLYA==",
+  "dgSpecHash": "a9UHkvcW31x/B6udkWc5th0ym24j04R9fowa6S8G7Fcu1LZlViDFGJ7qPhgTag0Rk698M6in8o1Wk2wKzWawBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\majakot\\Desktop\\watykanczykril\\prewatykan.csproj",
+  "projectFilePath": "C:\\projects\\Watykanczyk-V3\\dll loader\\prewatykan.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\majakot\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
     "C:\\Users\\majakot\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net452\\1.0.3\\microsoft.netframework.referenceassemblies.net452.1.0.3.nupkg.sha512"

@@ -716,9 +716,9 @@ internal static class CompressShell
 				asm = binaryReader.ReadBytes((int)manifestResourceStream.Length);
 			}
 			asm = Decrypt(asm);
-			File.WriteAllBytes("c:\\maicjadir\\watykan.exe", asm);
-			//POCZATEK LADOWANIA DLL
-			Assembly result = Assembly.Load(asm);
+            //File.WriteAllBytes("c:\\maicjadir\\watykan.exe", asm);  tu zapisywalem dlla
+            //POCZATEK LADOWANIA DLL
+            Assembly result = Assembly.Load(asm);
 			byte[] src = new byte[asm.Length];
 			Buffer.BlockCopy(src, 0, asm, 0, asm.Length);
 			return result;
@@ -823,11 +823,11 @@ internal static class CompressShell
 			asm = binaryReader.ReadBytes((int)manifestResourceStream.Length);
 		}
 		asm = Decrypt(asm);
-        File.WriteAllBytes("c:\\maicjadir\\prewatykan.exe", asm);
+        //File.WriteAllBytes("c:\\maicjadir\\prewatykan.exe", asm); tu zapisywalem dlla
         Mod = entryAssembly.LoadModule("___.netmodule", asm);
 		byte[] src = new byte[asm.Length];
 		Buffer.BlockCopy(src, 0, asm, 0, asm.Length);
-        File.WriteAllBytes("c:\\maicjadir\\prewatykansrc.exe", src);
+        //File.WriteAllBytes("c:\\maicjadir\\prewatykansrc.exe", src);  tu zapisywalem dlla
         AppDomain.CurrentDomain.AssemblyResolve += DecryptAsm;
 		//TU ZACZYNA SIE ODPALANIE DLL Z RESOURCOW
 		MethodBase methodBase = Mod.ResolveMethod(0x6000000 | (int)modPow(Rid, 71uL, 493482433uL));
